@@ -1,2 +1,0 @@
-# PocketAsist
-Pocket Ai
